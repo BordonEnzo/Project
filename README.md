@@ -1,0 +1,2 @@
+- para que funcione sin modificar la ruta de la imagen en el codigo, la carpeta se debe llamar Project y ahi dejar los archivos que trae el zip descargado de github
+- como usamos PIL es necesario tipear en el terminal: pip install pillow
