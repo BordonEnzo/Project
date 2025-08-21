@@ -1,5 +1,6 @@
 
 
+
 import tkinter 
 from tkinter import messagebox, ttk  # Para los cuadros de mensaje y los widgets tipo combobox
 import json  # Para manejar datos en formato JSON
