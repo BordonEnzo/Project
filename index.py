@@ -1,5 +1,5 @@
-
-
+asdas
+asdasd
 
 import tkinter 
 from tkinter import messagebox, ttk  # Para los cuadros de mensaje y los widgets tipo combobox
